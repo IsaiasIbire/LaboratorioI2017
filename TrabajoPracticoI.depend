@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1491357702 source:c:\users\isaias alfredo ibire\desktop\trabajopracticoi\main.c
+	"bic.h"
+
+1491357829 source:c:\users\isaias alfredo ibire\desktop\trabajopracticoi\bic.c
+	"bic.h"
+
+1491355851 c:\users\isaias alfredo ibire\desktop\trabajopracticoi\bic.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
